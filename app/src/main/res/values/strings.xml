@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_popular">popular</string>
+    <string name="pref_top_rated">top_rated</string>
+
+    <!-- API KEY for HTTP Invocation -->
+    <string name="api_key">
+        <!--[TODO]ADD YOUR API KEY HERE-->
+    </string>
+
+</resources>
